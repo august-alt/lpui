@@ -9,6 +9,8 @@ License: GPLv2+
 Group: Other
 Url: https://github.com/august-alt/lpui
 
+BuildArch:     noarch
+
 BuildRequires(pre): rpm-build-python3
 
 Requires: admx-basealt gpui
